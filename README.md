@@ -4,6 +4,11 @@ A VirtualR é uma plataforma inovadora desenvolvida com React e Tailwind CSS, cr
 Com a VirtualR, você tem acesso a um conjunto robusto de ferramentas projetadas para simplificar o processo de criação, permitindo que desenvolvedores de todos os níveis deem vida às suas ideias com facilidade. Nossa plataforma promove a personalização e a criatividade, garantindo que cada experiência seja única e envolvente.
 
 
+
+https://github.com/user-attachments/assets/05fe1e7a-91a5-4acf-a380-d056ede48272
+
+
+
 ### Tecnologias Utilizadas
 
 - React: ^17
